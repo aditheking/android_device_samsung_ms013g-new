@@ -20,4 +20,4 @@ $(call inherit-product, device/samsung/ms013g/full_ms013g.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := SM-G7102
-PRODUCT_NAME := cm_ms013g
+PRODUCT_NAME := ownrom_ms013g
